@@ -1,0 +1,17 @@
+c:\users\ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\bin\Debug\Monolith Checksum.exe.config
+c:\users\ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\bin\Debug\Monolith Checksum.exe
+c:\users\ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\bin\Debug\Monolith Checksum.pdb
+c:\users\ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\bin\Debug\Monolith Checksum.xml
+c:\users\ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\obj\Debug\Monolith Checksum.vbprojResolveAssemblyReference.cache
+c:\users\ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\obj\Debug\Monolith_Checksum.Form1.resources
+c:\users\ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\obj\Debug\Monolith_Checksum.Resources.resources
+c:\users\ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\obj\Debug\Monolith Checksum.vbproj.GenerateResource.Cache
+c:\users\ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\obj\Debug\Monolith Checksum.exe
+c:\users\ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\obj\Debug\Monolith Checksum.xml
+c:\users\ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\obj\Debug\Monolith Checksum.pdb
+C:\Users\Ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\bin\Debug\Monolith Checksum.exe.manifest
+C:\Users\Ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\bin\Debug\Monolith Checksum.application
+C:\Users\Ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\obj\Debug\Monolith Checksum.TrustInfo.xml
+C:\Users\Ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\obj\Debug\Monolith Checksum.exe.manifest
+C:\Users\Ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\obj\Debug\Monolith Checksum.application
+C:\Users\Ray\documents\visual studio 2015\Projects\Monolith Checksum\Monolith Checksum\obj\Debug\Monolith_Checksum.Form2.resources
